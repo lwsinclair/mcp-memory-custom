@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bro3886-mcp-memory-custom-badge.png)](https://mseep.ai/app/bro3886-mcp-memory-custom)
+
 # Memory Custom
 
 [![smithery badge](https://smithery.ai/badge/@BRO3886/mcp-memory-custom)](https://smithery.ai/server/@BRO3886/mcp-memory-custom)
